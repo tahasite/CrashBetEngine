@@ -68,11 +68,18 @@ For purchasing the paid version or more information, message the Telegram ID bel
 
 ---
 
+## 📜 Additional Resources
+
+- **[Persian README (README-FA.md)](README-FA.md)** - توضیحات کامل به زبان فارسی  
+
+---
+
 ## 📞 Support & Contact
 
 If you have any questions or issues, feel free to contact us via Telegram:  
 📩 [@AdminTahaSite](https://t.me/AdminTahaSite)
-![qrcode_adminid](https://s6.uupload.ir/files/image_2025-03-12_01-27-52_3a5r.png)
+
+<img src="https://s6.uupload.ir/files/image_2025-03-12_01-27-52_3a5r.png" alt="QR Code for @AdminTahaSite" width="150" height="150">
 
 ---
 
