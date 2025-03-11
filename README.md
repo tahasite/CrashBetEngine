@@ -85,4 +85,4 @@ If you have any questions or issues, feel free to contact us via Telegram:
 
 ## 📜 License
 
-This project is released under the demo version license. See the [LICENSE.txt](LICENSE.txt) file for more details.
+This project is released under the demo version license. See the [LICENSE](LICENSE) file for more details.
