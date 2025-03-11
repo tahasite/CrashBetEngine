@@ -61,10 +61,10 @@ For purchasing the paid version or more information, message the Telegram ID bel
 ## 📸 Project Screenshots
 
 ### Version Comparison
-![Comparison Table](https://s6.uupload.ir/files/screencapture-127-0-0-1-5500-test-html-2025-03-12-00_56_36_w6mt.png)
+![Comparison Table](https://s6.uupload.ir/files/screencapture-127-0-0-1-5500-test-html-2025-03-12-01_41_59_jl3a.png)
 
 ### Script Environment
-![Environment Screenshot](https://s6.uupload.ir/files/screencapture-localhost-classic-crash-2025-03-11-23_45_51_31yo.png)
+![Environment Screenshot](https://s6.uupload.ir/files/screencapture-localhost-classic-crash-2025-03-12-01_39_34_i15w.png)
 
 ---
 
