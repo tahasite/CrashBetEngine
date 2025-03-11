@@ -49,8 +49,6 @@
 
 برای خرید نسخه پولی و اطلاعات بیشتر، به آیدی تلگرام زیر پیام بدین:  
 📩 [@AdminTahaSite](https://t.me/AdminTahaSite)
-![qrcode_adminid](https://s6.uupload.ir/files/image_2025-03-12_01-27-52_3a5r.png)
-)
 
 ---
 
@@ -71,6 +69,8 @@
 
 اگه سوال یا مشکلی داری، می‌تونی از طریق تلگرام با ما در تماس باشی:  
 📩 [@AdminTahaSite](https://t.me/AdminTahaSite)
+![qrcode_adminid](https://s6.uupload.ir/files/image_2025-03-12_01-27-52_3a5r.png)
+)
 
 ---
 
