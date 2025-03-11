@@ -1,6 +1,6 @@
 # CrashBetEngine
 
-![Cover Image]([screenshots/cover_image.png](https://s6.uupload.ir/files/screencapture-127-0-0-1-5500-test-html-2025-03-12-01_17_47_uvwo.png))
+![Cover Image](https://s6.uupload.ir/files/screencapture-127-0-0-1-5500-test-html-2025-03-12-01_17_47_uvwo.png)
 
 ---
 
@@ -60,14 +60,11 @@ For purchasing the paid version or more information, message the Telegram ID bel
 
 ## 📸 Project Screenshots (English)
 
-### Cover Image
-![Cover Image](screenshots/cover_image.png)
-
 ### Version Comparison
-![Comparison Table](screenshots/comparison_table.png)
+![Comparison Table](https://s6.uupload.ir/files/screencapture-127-0-0-1-5500-test-html-2025-03-12-00_56_36_w6mt.png)
 
 ### Script Environment
-![Environment Screenshot](screenshots/environment_screenshot.png)
+![Environment Screenshot](https://s6.uupload.ir/files/screencapture-localhost-classic-crash-2025-03-11-23_45_51_31yo.png)
 
 ---
 
@@ -75,6 +72,7 @@ For purchasing the paid version or more information, message the Telegram ID bel
 
 If you have any questions or issues, feel free to contact us via Telegram:  
 📩 [@AdminTahaSite](https://t.me/AdminTahaSite)
+![qrcode_adminid](https://s6.uupload.ir/files/image_2025-03-12_01-27-52_3a5r.png)
 
 ---
 
@@ -135,19 +133,21 @@ This project is released under the demo version license. See the [LICENSE.txt](L
 
 برای خرید نسخه پولی و اطلاعات بیشتر، به آیدی تلگرام زیر پیام بدین:  
 📩 [@AdminTahaSite](https://t.me/AdminTahaSite)
+![qrcode_adminid](https://s6.uupload.ir/files/image_2025-03-12_01-27-52_3a5r.png)
+)
 
 ---
 
 ## 📸 تصاویر پروژه (فارسی)
 
 ### تصویر کاور
-![تصویر کاور](screenshots/cover_image.png)
+![تصویر کاور](https://s6.uupload.ir/files/screencapture-127-0-0-1-5500-test-html-2025-03-12-00_44_21_zlte.png)
 
 ### مقایسه نسخه‌ها
-![جدول مقایسه](screenshots/comparison_table.png)
+![جدول مقایسه](https://s6.uupload.ir/files/screencapture-127-0-0-1-5500-test-html-2025-03-12-00_56_36_w6mt.png)
 
 ### محیط اسکریپت
-![محیط اسکریپت](screenshots/environment_screenshot.png)
+![محیط اسکریپت](https://s6.uupload.ir/files/screencapture-localhost-classic-crash-2025-03-11-23_45_51_31yo.png)
 
 ---
 
