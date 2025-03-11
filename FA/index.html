@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="fa">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
+    <title>Classic Crash</title>
+    <script defer="defer" src="bundle1.js"></script>
+    <script defer="defer" src="bundle2.js"></script>
+    <link href="styles.css" rel="stylesheet">
+    <link href="font.css" rel="stylesheet">
+</head>
+
+<body>
+    <div id="loader"><img src="assets/background-image.89428ca48c924756174e.jpg"> <img
+            src="assets/loading.667b6949854d4483ce58.png"></div>
+    <div id="player-information" data-wait>
+        <p id="nickname"></p>
+        <div><span id="profit"></span><button id="exit-btn"></button></div>
+    </div>
+    <main id="main-wrapper" data-wait>
+        <div class="box_logo"><a href="https://t.me/tahasite_chanel" target="_blank"><img src="assets/tahasite.jpg"
+                    alt="tahasite"></a></div>
+        <div class="box_buy"><a href="https://t.me/tahasite_admin" target="_blank"><button class="button-44"
+                    role="button"><span class="text">دریافت نسخه اصلی</span></button></a></div>
+        <section id="app">
+            <div id="control">
+                <div id="interaction-component">
+                    <div id="interaction-tabs"><button id="history-tab" data-button="history"><span
+                                id="history-tab-text">History</span></button><button id="chat-tab" class="active"
+                            data-button="chat"><span id="chat-tab-text">Chat</span></button><button id="players-tab"
+                            data-button="players" class="hide"><span id="players-tab-text">Players</span></button></div>
+                    <div id="interaction-content">
+                        <div id="history-content" class="hide" data-content="history">
+                            <div id="history-table-header"><span id="history-header-crash"></span><span>@</span><span
+                                    id="history-header-bet"></span><span id="history-header-profit"></span><span
+                                    id="history-header-md5" class="hide"></span><span id="history-header-hash"
+                                    class="hide"></span></div>
+                            <div id="history-container"></div>
+                        </div>
+                        <div id="chat-content" data-content="chat">
+                            <div id="notice" class="">
+                                <p id="notice-text"></p><button id="notice-close">X</button>
+                            </div>
+                            <div id="messages-container"></div>
+                            <div id="message-input-component">
+                                <div id="message-input-wrapper"><input id="message-input"><button
+                                        id="message-button"><img
+                                            src="assets/sendButton.f9bcbe07780c378c3f7d.png"></button></div>
+                            </div>
+                        </div>
+                        <div id="players-content" class="hide" data-content="players">
+                            <div id="players-table-header">
+                                <span>USER</span><span>@</span><span>BET</span><span>PROFIT</span></div>
+                            <div id="players-container"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="canvas-bet-wrapper">
+                <div id="canvas"><svg id="svg-element" width="504" height="323" viewBox="0 0 504 324" fill="none"
+                        xmlns="http://www.w3.org/2000/svg">
+                        <path id="curve-path-background"
+                            d="M502.049 1.70703C418.359 197.612 238.817 321.821 1.5791 321.295" stroke="#408609"
+                            stroke-width="3" />
+                        <path id="curve-path" d="M502.049 1.70703C418.359 197.612 238.817 321.821 1.5791 321.295"
+                            stroke="white" stroke-width="4.7" />
+                    </svg>
+                    <p id="next-round" class="hide"></p>
+                    <p id="multiplier" class="hide"></p>
+                    <div id="top-winners"></div>
+                </div>
+                <div id="bet-component" data-state="place bet">
+                    <div id="bet-component-header"></div>
+                    <div id="amount-component"><span id="amount-text-placeholder"></span>
+                        <div id="amount-input-currency"><input id="amount-value"><span id="currency"></span><button
+                                id="amount-x">2X</button></div>
+                    </div>
+                    <div id="cashout-component"><span id="auto-cahsout-placeholder"></span>
+                        <div><input id="cashout-value" min="1.01" max="20">
+                            <div id="range-container"><input min="1.01" max="20" step="0.01" id="cashout-input"
+                                    type="range"></div>
+                        </div>
+                    </div><button id="activity-button" class="placebet-button" data-control>Place Bet<span
+                            id="cashout-value-count"></span></button>
+                </div>
+            </div>
+        </section>
+        <div id="players-wide-screen">
+            <div id="players-table-header-wide"><span id="user-header-user"></span><span>@</span><span
+                    id="user-header-bet"></span><span id="user-header-profit"></span></div>
+            <div id="players-container-wide"></div>
+            <div id="players-wide-progress"></div>
+        </div>
+    </main>
+    <div id="disconnect" class="hide">
+        <p id="reload-placeholder"></p>
+        <div id="disconnected-btns"></div>
+    </div>
+    <div id="nickname-modal" class="hide">
+        <div id="nickname-wrapper">
+            <p id="nickname-placeholder"></p><input maxlength="64" id="nickname-input"><button
+                id="nickname-button"></button>
+        </div>
+    </div>
+</body>
+
+</html>
