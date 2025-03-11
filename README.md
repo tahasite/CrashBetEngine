@@ -54,7 +54,7 @@ Installing the demo version is straightforward and requires no complex setup:
 📢 **Note**: This is a demo version with mock data (e.g., MD5 hashes and multipliers). To unlock advanced features such as unlimited simultaneous users, technical support, online chat, payment gateways, anti-cheat systems, and logo removal, you need to purchase the paid version.
 
 For purchasing the paid version or more information, message the Telegram ID below:  
-📩 [@AdminTahaSite](https://t.me/tahasite_admin)
+📩 [@tahasite_admin](https://t.me/tahasite_admin)
 
 ---
 
