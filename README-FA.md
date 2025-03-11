@@ -67,7 +67,7 @@
 ## 📞 پشتیبانی و تماس
 
 اگه سوال یا مشکلی داری، می‌تونی از طریق تلگرام با ما در تماس باشی:  
-📩 [@AdminTahaSite](https://t.me/AdminTahaSite)
+📩 [@tahasite_admin](https://t.me/tahasite_admin)
 
 <img src="https://s6.uupload.ir/files/image_2025-03-12_01-27-52_3a5r.png" alt="QR Code for @AdminTahaSite" width="150" height="150">
 
